@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet packages cache
+packages/
+
+# Test results
+TestResults/
+
+# Environment files
+.env
+
+# Node modules (if frontend added later)
+node_modules/
+
+# Publish output
+publish/
+
+# SQLite / Local DB (if any)
+*.db
