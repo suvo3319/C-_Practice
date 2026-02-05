@@ -1,0 +1,14 @@
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/bin/Debug/net8.0/C#_Practice
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/bin/Debug/net8.0/C#_Practice.deps.json
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/bin/Debug/net8.0/C#_Practice.runtimeconfig.json
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/bin/Debug/net8.0/C#_Practice.dll
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/bin/Debug/net8.0/C#_Practice.pdb
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/obj/Debug/net8.0/C#_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/obj/Debug/net8.0/C#_Practice.AssemblyInfoInputs.cache
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/obj/Debug/net8.0/C#_Practice.AssemblyInfo.cs
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/obj/Debug/net8.0/C#_Practice.csproj.CoreCompileInputs.cache
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/obj/Debug/net8.0/C#_Practice.dll
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/obj/Debug/net8.0/refint/C#_Practice.dll
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/obj/Debug/net8.0/C#_Practice.pdb
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/obj/Debug/net8.0/C#_Practice.genruntimeconfig.cache
+/media/siroyasha/sda4_fixed/Practice/dotnet/C#_Practice/obj/Debug/net8.0/ref/C#_Practice.dll
